@@ -83,6 +83,10 @@ GTKWave was used to verify the following signals:
 - `addr`
 - `wdata`
 - `rdata`
+- ![RAM Waveform](waveform.png)
+The RAM was simulated using Icarus Verilog and the output waveform was verified using GTKWave.
+
+![RAM Waveform](waveform.png)
 
 ## 📚 What I Learned
 
